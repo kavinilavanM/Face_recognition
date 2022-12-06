@@ -5,7 +5,7 @@ import os # operating system for path
 from datetime import datetime # date time for register attendance
 
 
-direction=r'C:\Users\Kavinilavan\opencv\Face\train' 
+direction=r'C:\Users\admin\opencv\Face\train' 
 images = [ ] # append images
 labels = [ ] # append label names
 List=os.listdir(direction) # it list out the each images in our folders
